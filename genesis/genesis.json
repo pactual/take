@@ -1,7 +1,7 @@
 {
     "launchTime": 1530316800,
     "gasLimit": 10000000,
-    "extraData": "mainet",
+    "extraData": "take",
     "accounts": [
         {
             "address": "0x10cfaB4282DB68996502530cE06130aC8c8B1C56",

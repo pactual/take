@@ -1,0 +1,42 @@
+{
+    "launchTime": 1530316800,
+    "gasLimit": 10000000,
+    "extraData": "mainet",
+    "accounts": [
+        {
+            "address": "0x10cfaB4282DB68996502530cE06130aC8c8B1C56",
+            "balance": 5800000000000000000000000,
+            "energy": 10000,
+            "code": "0x6060604052600256",
+            "storage": {
+                "0x0000000000000000000000000000000000000000000000000000000000000001": "0x0000000000000000000000000000000000000000000000000000000000000002"
+            }
+        },
+        {
+            "address": "0x20dcaB4282DB68996502530cE06130aC8c8B1C56",
+            "balance": 0,
+            "energy": 0
+        }
+    ],
+    "authority": [
+        {
+            "masterAddress": "0x10cfaB4282DB68996502530cE06130aC8c8B1C56",
+            "endorsorAddress": "0x10cfaB4282DB68996502530cE06130aC8c8B1C56",
+            "identity": "0xb307b5c0450403416e7ff452bf58b1824a1234574ae6c756957327942f9dd2ea"
+        }
+    ],
+    "params": {
+        "rewardRatio": 300000000000000000,
+        "baseGasPrice": 1000000000000000,
+        "proposerEndorsement": 25000000000000000000000000,
+        "executorAddress": "0x0000000000000000000000004578656375746f72"
+    },
+    "executor": {
+        "approvers": [
+            {
+                "address": "0x10cfaB4282DB68996502530cE06130aC8c8B1C56",
+                "identity": "0xb307b5c0450403416e7ff452bf58b1824a1234574ae6c756957327942f9dd2ea"
+            }
+        ]
+    }
+}
